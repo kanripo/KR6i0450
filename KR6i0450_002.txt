@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 754
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0450_T_000-0575b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0450_T_002-0581c> 
 #+PROPERTY: JUAN 2
@@ -299,7 +299,7 @@
 
 扇提羅等長跪涕淚，白皇后言：「我等¶
 五人奉事大家，有何等愆，非意今日被驅棄¶
-捐？若有不稱，惟願弘恕，使役如前。」於是皇¶
+󳑂？若有不稱，惟願弘恕，使役如前。」於是皇¶
 后辭讓再三，扇提羅等不欲離去。
 
 皇后白佛：¶
